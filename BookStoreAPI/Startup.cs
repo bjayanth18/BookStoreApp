@@ -20,6 +20,9 @@ using Microsoft.OpenApi.Models;
 
 namespace BookStoreAPI
 {
+    /// <summary>
+    /// Adding documentation to Startup
+    /// </summary>
     public class Startup
     {
         public Startup(IConfiguration configuration)
