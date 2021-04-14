@@ -41,5 +41,10 @@
             </summary>
             <param name="value"></param>
         </member>
+        <member name="T:BookStoreAPI.Startup">
+            <summary>
+            Adding documentation to Startup
+            </summary>
+        </member>
     </members>
 </doc>
