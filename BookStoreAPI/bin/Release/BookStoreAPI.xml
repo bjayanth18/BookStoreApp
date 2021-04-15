@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BookStoreAPI</name>
+    </assembly>
+    <members>
+        <member name="T:BookStoreAPI.Controllers.AuthorController">
+            <summary>
+            API to perform CRUD operations on Authors
+            </summary>
+        </member>
+        <member name="M:BookStoreAPI.Controllers.AuthorController.GetAllAuthors">
+            <summary>
+            Fetch all Authors in the database
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:BookStoreAPI.Controllers.HomeController">
+            <summary>
+            This is my first API controller
+            </summary>
+        </member>
+        <member name="M:BookStoreAPI.Controllers.HomeController.Get">
+            <summary>
+            I struggled with this function for 2 days!
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BookStoreAPI.Controllers.HomeController.Get(System.Int32)">
+            <summary>
+            Simple stuff this, i understand you!
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BookStoreAPI.Controllers.HomeController.Put(System.Int32,System.String)">
+            <summary>
+            Put method
+            </summary>
+            <param name="id"></param>
+            <param name="value"></param>
+        </member>
+        <member name="M:BookStoreAPI.Controllers.HomeController.Delete(System.Int32)">
+            <summary>
+            Delete me not!
+            </summary>
+            <param name="id"></param>
+        </member>
+        <member name="M:BookStoreAPI.Controllers.HomeController.Post(System.String)">
+            <summary>
+            Poster boy Kohli!
+            </summary>
+            <param name="value"></param>
+        </member>
+        <member name="T:BookStoreAPI.Startup">
+            <summary>
+            Adding documentation to Startup
+            </summary>
+        </member>
+    </members>
+</doc>

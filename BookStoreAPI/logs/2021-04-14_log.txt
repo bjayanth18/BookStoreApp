@@ -1,0 +1,35 @@
+2021-04-14 17:45:12.1301 INFO Fetching all authors
+2021-04-14 17:47:29.0432 INFO Fetching all authors
+2021-04-14 17:51:23.0213 INFO Fetching all authors
+2021-04-14 17:52:58.4589 INFO Fetching all authors
+2021-04-14 17:52:58.4589 INFO Fetching all authors
+2021-04-14 18:05:51.6603 INFO Fetching all authors
+2021-04-14 18:07:32.8956 INFO Fetching all authors
+2021-04-14 19:02:26.3182 INFO Fetching all authors
+2021-04-14 19:03:02.2184 INFO Fetching all authors
+2021-04-14 19:08:46.3502 INFO Fetching all authors
+2021-04-14 19:12:49.4928 INFO Fetching all authors
+2021-04-14 19:16:26.4758 INFO Fetching all authors
+2021-04-14 19:18:27.0988 INFO Fetching all authors
+2021-04-14 19:19:43.1607 INFO Fetching all authors
+2021-04-14 19:22:02.2873 INFO Fetching all authors
+2021-04-14 19:24:26.1475 INFO Fetching all authors
+2021-04-14 19:24:27.8761 INFO Fetch complete
+2021-04-14 20:05:05.8636 INFO Fetching all authors
+2021-04-14 20:05:08.1006 INFO Fetch complete
+2021-04-14 20:09:57.5519 INFO Fetching all authors
+2021-04-14 20:09:59.5660 INFO Fetch complete
+2021-04-14 20:22:32.3041 INFO Fetching author: 1
+2021-04-14 20:23:33.2128 INFO Fetching author: 1
+2021-04-14 20:28:30.3196 INFO Fetching author: 1
+2021-04-14 20:28:32.3345 INFO Fetch complete
+2021-04-14 20:29:41.4753 INFO Fetching author: 1
+2021-04-14 20:29:41.5048 INFO Fetch complete
+2021-04-14 20:29:43.4735 INFO Fetching author: 1
+2021-04-14 20:29:43.4735 INFO Fetch complete
+2021-04-14 20:29:50.1684 INFO Fetching author: 1
+2021-04-14 20:29:50.1684 INFO Fetch complete
+2021-04-14 20:30:00.6528 INFO Fetching author: 1
+2021-04-14 20:30:00.6528 INFO Fetch complete
+2021-04-14 21:11:30.5674 INFO Fetching author: 1
+2021-04-14 21:11:31.9610 INFO Fetch complete
