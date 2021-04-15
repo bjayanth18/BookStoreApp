@@ -22,3 +22,28 @@
 2021-04-15 18:06:07.7491 INFO Author Jayanth updated
 2021-04-15 18:07:20.4900 INFO Fetching all authors
 2021-04-15 18:07:21.5780 INFO Fetch complete
+2021-04-15 20:52:17.3967 INFO Fetching all books
+2021-04-15 20:55:31.3954 INFO Fetching all books
+2021-04-15 20:55:32.7694 INFO Fetch complete
+2021-04-15 20:56:50.7792 INFO Creating Book
+2021-04-15 20:56:51.2219 INFO Author Autobiography of a Yogi created
+2021-04-15 20:57:02.5903 INFO Fetching all books
+2021-04-15 20:57:02.6018 INFO Fetch complete
+2021-04-15 20:57:14.9238 INFO Fetching book: 1
+2021-04-15 20:57:15.0873 INFO Fetch complete
+2021-04-15 20:57:19.1351 INFO Fetching book: 2
+2021-04-15 20:57:19.1351 INFO Fetch complete
+2021-04-15 20:58:06.3696 INFO Creating Book
+2021-04-15 20:58:15.5958 INFO Creating Book
+2021-04-15 20:58:15.6352 INFO Author New Cook created
+2021-04-15 20:59:00.4855 INFO Updating Book
+2021-04-15 20:59:14.8750 INFO Fetching all books
+2021-04-15 20:59:14.8750 INFO Fetch complete
+2021-04-15 20:59:22.3947 INFO Updating Book
+2021-04-15 20:59:22.4076 INFO Book Healthy eating updated
+2021-04-15 20:59:27.5398 INFO Fetching all books
+2021-04-15 20:59:27.5398 INFO Fetch complete
+2021-04-15 20:59:48.0510 INFO Deleting book 2
+2021-04-15 20:59:48.0691 INFO Book deleted
+2021-04-15 20:59:57.5626 INFO Fetching all books
+2021-04-15 20:59:57.5673 INFO Fetch complete

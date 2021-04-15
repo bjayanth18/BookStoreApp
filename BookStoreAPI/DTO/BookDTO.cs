@@ -9,6 +9,8 @@ namespace BookStoreAPI.DTO
         {
             CreationName = Environment.UserName;
             CreationDate = DateTime.Now;
+            RevisionDate = DateTime.Now;
+            RevisionName = Environment.UserName;
         }
         public int Bookid { get; set; }
         public string? Title { get; set; }
