@@ -37,7 +37,7 @@ namespace BookStoreAPI
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<ApplicationDbContext>(options =>
-                options.UseSqlite(
+                options.UseSqlServer(
                     Configuration.GetConnectionString("DefaultConnection")));
             services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
                 .AddEntityFrameworkStores<ApplicationDbContext>();
@@ -65,6 +65,7 @@ namespace BookStoreAPI
             });
 
             services.AddSingleton<ILoggerService, LoggerService>();
+            services.AddScoped<IAuthorService, AuthorService>();
             
             services.AddControllers();
         }
@@ -75,7 +76,7 @@ namespace BookStoreAPI
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
-                app.UseDatabaseErrorPage();
+                //app.UseDatabaseErrorPage();
             }
             else
             {

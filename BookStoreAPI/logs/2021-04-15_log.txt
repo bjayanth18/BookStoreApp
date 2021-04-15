@@ -1,0 +1,24 @@
+2021-04-15 17:00:53.0045 INFO Creating Author
+2021-04-15 17:04:41.9264 INFO Creating Author
+2021-04-15 17:07:31.6606 INFO Creating Author
+2021-04-15 17:11:26.8972 INFO Creating Author
+2021-04-15 17:14:10.4330 INFO Creating Author
+2021-04-15 17:20:36.8959 INFO Creating Author
+2021-04-15 17:20:39.4805 INFO Author John created
+2021-04-15 17:20:52.4178 INFO Fetching all authors
+2021-04-15 17:20:52.9594 INFO Fetch complete
+2021-04-15 17:21:51.2218 INFO Creating Author
+2021-04-15 17:21:51.2512 INFO Author Arthur created
+2021-04-15 17:21:59.0931 INFO Fetching all authors
+2021-04-15 17:21:59.0991 INFO Fetch complete
+2021-04-15 17:39:38.9894 INFO Fetching author: 3
+2021-04-15 17:39:40.2013 INFO Fetch complete
+2021-04-15 17:53:32.9424 INFO Deleting author 2
+2021-04-15 17:53:34.2247 INFO Author deleted
+2021-04-15 17:53:42.4968 INFO Fetching all authors
+2021-04-15 17:53:42.5486 INFO Fetch complete
+2021-04-15 17:54:30.8668 INFO Updating Author
+2021-04-15 18:06:06.7078 INFO Updating Author
+2021-04-15 18:06:07.7491 INFO Author Jayanth updated
+2021-04-15 18:07:20.4900 INFO Fetching all authors
+2021-04-15 18:07:21.5780 INFO Fetch complete
